@@ -2,6 +2,8 @@
 
 > **Unofficial fan app.** Not affiliated with, endorsed by or connected to Formula 1, the FIA or any team. No official logos, trademarks or footage are used; all design and graphics are my own.
 
+**▶ Live demo: [lendzionm.github.io/slipstream](https://lendzionm.github.io/slipstream/)** (web version, works on phone and desktop)
+
 Slipstream is a cross-platform app (web, Android and iOS from one codebase) that turns free, public Formula 1 data into a race companion and a hands-on engineering lab. It is available in **English and Polish**.
 
 ## Features
